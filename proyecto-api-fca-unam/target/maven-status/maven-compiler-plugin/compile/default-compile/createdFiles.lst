@@ -1,0 +1,9 @@
+fca\unam\mx\services\JdbiService.class
+fca\unam\mx\dao\StoreDao.class
+fca\unam\mx\resources\ClientsResource.class
+fca\unam\mx\dto\ClientDto.class
+fca\unam\mx\dto\ProductDto.class
+fca\unam\mx\application\ApiApplication.class
+fca\unam\mx\resources\ProductsResource.class
+fca\unam\mx\dto\ResponseDto.class
+fca\unam\mx\dal\StoreDal.class
